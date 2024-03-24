@@ -16,6 +16,10 @@ Gossip is a Flutter-based news app inspired by the quintessential Indian Aunty w
 
 https://github.com/RuPaul23/Gossip_NewsApp/assets/105512611/24dc501a-3c4f-438f-834f-995d53d4adfe
 
+## Explanation Video
+
+https://drive.google.com/file/d/1lmMt-yNp_8lviENCpd56M5CIWPWlTSfM/view?usp=sharing
+
 ## Installation
 
 1. Clone the repository:
